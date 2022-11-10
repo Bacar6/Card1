@@ -17,7 +17,9 @@ body{
 .container{
   background: white;
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center space-evenly;
+  justify-content: space-evenly;
 }
 
 .box-1{
