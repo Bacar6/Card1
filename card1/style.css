@@ -8,8 +8,37 @@
 }
 */
 
+body{
+  background: whitesmoke;
+  margin: auto;
+  width: 100%;
+}
 
+.container{
+  background: white;
+  display: flex;
+  flex-direction: column;
+}
 
+.box-1{
+  background: salmon;
+  border: 6px solid #000;
+}
+
+.box-2{
+  background: fuchsia;
+  border: 6px solid red;
+}
+
+.box-3{
+  background: aqua;
+  border: 6px solid blue;
+}
+
+.box-4{
+  background: navajowhite;
+  border: 6px solid hotpink;
+}
 
 
 
