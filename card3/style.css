@@ -17,6 +17,25 @@ h1{
   
 }
 
+.item-1{
+  background: red;
+  color: white;
+  font-size: 950%;
+}
+
+.item-2{
+  background: #141ed2;
+  color: #2dd844f3;
+  font-size: 950%;
+  border-radius: 20px;
+}
+
+.item-3{
+
+}
+
+
+
 
 
 
